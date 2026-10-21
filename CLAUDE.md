@@ -9,6 +9,7 @@
 本项目是 **SKILLS（Claude Code Skills）学习项目**：
 沿用与 MCP 项目相同的 Sunlike ERP 报表 API 作为素材，学习 Skills 的制作与使用。
 **学习优先于速度**——每个阶段先讲概念、用户听懂再动手，不追求一次做完。
+项目已发布至 GitHub：`https://github.com/ksmingkimo/SKILLS`（2026-10-21 推送，main 分支；仓库内 `skills/` 为两个技能的发布副本，母本在个人技能目录 `~/.claude/skills/`——母本有更新时重新复制并 push）
 
 ## 教学铁律（本项目最重要的一条）
 
